@@ -2,10 +2,12 @@
   color: green;
   text-align: center;
   font-style: initial;
+  margin: 400px;
 }
 
 .second {
   color: blue;
   text-align: center;
   font-style: italic;
+  margin: 12px;
 }
